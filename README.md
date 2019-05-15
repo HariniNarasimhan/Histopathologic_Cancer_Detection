@@ -1,5 +1,7 @@
 # Histopathologic-Cancer-Detection
 
+The data for this competition is a slightly modified version of the PatchCamelyon (PCam)benchmark dataset. The main aim of the project is to create an algorithm to identify metastatic cancer in small image patches taken from larger digital pathology scans. Our algorithm is a CNN (Convolutional Neural Network) with various data augmentation to classify the normal and abnormal patches. The algorithm succeeded with 0.85 accuracy and further improvement is invloved continuosly. 
+
 In this kaggle competition modified PCam dataset is given. From that we have to detect whether a Whole-slide images
 is having benign or malignant tumour cells in its center 32 x 32 pixel.
 
